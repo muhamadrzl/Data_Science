@@ -1,2 +1,3 @@
-# Data_Science
-Learning Data Science, Machine Learning, and Deep Learning
+# TELKOM STOCK PREDICTION
+
+Making prediction of stock price using regression technique
